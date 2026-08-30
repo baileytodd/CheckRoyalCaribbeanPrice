@@ -6,3 +6,8 @@ output-celebrity.txt
 output-json-celebrity.txt
 output-json-royal.txt
 output-royal.txt
+output-browse.txt
+.vscode/settings.json
+config-comb.yaml
+output-combined.txt
+output-json-combined.txt
